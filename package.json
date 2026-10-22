@@ -1,0 +1,10 @@
+{
+  "name": "notion-google-calendar-sync",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Configurable one-way Notion to Google Calendar synchronization for Google Apps Script",
+  "author": "miao010625",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test tests/同步测试-Sync-tests.cjs" }
+}

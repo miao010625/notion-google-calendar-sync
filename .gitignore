@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+.clasp.json
+.clasprc.json
+*properties.local.json
+*credentials*.json
+*token*.json
+private/
+logs/
+*.log
